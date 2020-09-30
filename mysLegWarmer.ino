@@ -1,10 +1,19 @@
 /*
- Name:		                    mysRelay
+ Name:		                    mysLegWarmer
  Created:	                    24.09.2020
- Modified:                      24.09.2020
+ Modified:                      30.09.2020
  Programming:                   Alex aka Sr.FatCat
 
 MySensors LegWarmer
+TODO: 
+	- Увеличить время HEART_BIT_INTERVAL
+	- Подтверждение параметров обратной посылкой
+	- Подтверждение параметров при старте
+	- Перевод на таймер передачи Сонара
+	- Перевод на таймер ожидания DS18B20
+	- Умная презентация
+
+
 */
 
 //#define MY_DEBUG
