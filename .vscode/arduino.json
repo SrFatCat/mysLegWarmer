@@ -1,7 +1,7 @@
 {
     "board": "arduino:avr:MYSBL",
     "output": "./.output",
-    "port": "COM6",
+    "port": "COM8",
     "sketch": "mysLegWarmer.ino",
     "programmer": "",
     "configuration": "frequency=MYSBL16"

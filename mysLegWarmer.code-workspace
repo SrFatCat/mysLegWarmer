@@ -11,7 +11,9 @@
 			"vector": "cpp",
 			"xhash": "cpp",
 			"xstring": "cpp",
-			"xutility": "cpp"
+			"xutility": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp"
 		}
 	}
 }

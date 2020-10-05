@@ -16,6 +16,7 @@
                     "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\DallasTemperature\\**",
                     "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\OneWire\\**",
                     "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\myIncludes\\**",
+                    "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\Time\\**",
                     "${workspaceRoot}\\**"
                 ]
             },
